@@ -4,6 +4,6 @@ This is a sample company landing page made with only HTML and plain CSS. It feat
 
 ![](<https://github.com/william-appleton/product-landing-page/blob/main/assets/Piano%20Restoration%20(3).gif?raw=true>)
 
-And the published page can be seen here:
+The published page can be seen here:
 
 https://william-appleton.github.io/product-landing-page/
